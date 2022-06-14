@@ -1,4 +1,4 @@
-# Group-Project-2
+# Pet-Social
 
 ## Title:
 
@@ -15,5 +15,6 @@ Technologies Used:
 * Express.JS
 
 Link to deployed application:
+https://jaysmith13.github.io/Pet-Social/
 
 ## Screenshot:
