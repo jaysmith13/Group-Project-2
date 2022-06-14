@@ -1,0 +1,40 @@
+*{
+    margin: ;
+    padding: ;
+    font-family: ;
+}
+.container{
+    width: ;
+    height: ;
+    background-image: ;
+    background-size: ;
+    padding-left: ;
+    padding-right: ;
+}
+.navbar{
+    height: 12%;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    width: 50px;;
+    cursor:pointer;
+}
+.menu-icon{
+    width: 30px;
+    cursor: pointer;
+}
+nav{
+    flex: 1;
+    text-align:right ;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 60px;
+}
+nav ul li a {
+    text-decoration: line-through;
+    color: turquoise;
+    font-size: medium;
+}
