@@ -38,3 +38,21 @@ nav ul li a {
     color: turquoise;
     font-size: medium;
 }
+h1{
+    color: black;
+    font-size: 100px;
+}
+p{
+    color: ;
+}
+button{
+    width: 180px;
+    color: whitesmoke;
+    font-size: large;
+    padding: 12px 0;
+    background: #fff;
+    border: 0;
+    border-radius: 20px;
+    outline: none;
+    margin-top: 30px;
+}
