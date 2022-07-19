@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-header {
+    display: flex;
+    flex-wrap:wrap;
+    top: 0; 
+    background-image:url(dog-and-cat-background.htm);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
