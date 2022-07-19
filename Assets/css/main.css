@@ -13,3 +13,23 @@
     background-attachment: fixed;
 
 }
+.welcome-header {
+    font-style: italic;
+    font-size: larger;
+    margin: 0;
+}
+.nav-header ul li a{
+    padding-top: 0; 
+    color: black;
+    text-shadow: none;
+}
+.nav-header ul li a:hover{
+    border-radius: 12px;
+    text-shadow: none;
+    background: transparent;
+}
+main {
+    background-color: transparent;
+    border-style: solid;
+    border-width: 3px;
+}
