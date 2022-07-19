@@ -56,3 +56,6 @@ button{
     outline: none;
     margin-top: 30px;
 }
+.background-image{
+    background-image:url("pets-paw-pattern-bones-animal.webp")
+}
