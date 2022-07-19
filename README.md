@@ -1,9 +1,8 @@
 # Pet-Social
 
-## Title:
+## Description:
 
-
-## Description
+Pet Social is an instagram inspired app for sharing dog photos.
 
 
 
