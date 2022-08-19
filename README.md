@@ -3,7 +3,8 @@
 ## Title:
 
 
-## Description
+## Description:
+Pet-social is a social media application for dogs.
 
 
 
