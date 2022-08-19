@@ -17,5 +17,6 @@ Technologies Used:
 
 Link to deployed application:
 https://jaysmith13.github.io/Pet-Social/
+https://pet-social-gram.herokuapp.com/
 
 ## Screenshot:
